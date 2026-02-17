@@ -213,19 +213,6 @@ Nodemailer integration sends emails for:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📧 Contact & Support
-
-For questions, suggestions, or issues:
-- Open an issue on [GitHub Issues](https://github.com/Frotam/farmer/issues)
-- Email: support@farmermarketplace.com
-
----
 
 ## 🙏 Acknowledgments
 
